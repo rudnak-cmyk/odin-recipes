@@ -1,2 +1,2 @@
 # odin-recipes
-a site with recipes
+a tiny site with recipes using a bit of css
